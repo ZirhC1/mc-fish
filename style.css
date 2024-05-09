@@ -1,0 +1,78 @@
+html {
+  background: url("img/minecraft-river.jpg") no-repeat fixed center;
+  background-size: cover;
+}
+
+body {
+  background: rgba(255, 255, 255, 0.5);
+  width: 600px;
+  padding: 25px 100px;
+  margin: 25px auto;
+  text-align: center;
+  border-radius: 25px;
+  border: 5px dashed black;
+}
+
+h1,
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+select {
+  padding: 5px 10px;
+  font-size: 18px;
+}
+
+.character-img {
+  width: 75px;
+  height: 150px;
+  border: 2px solid grey;
+  margin: 0 5px;
+}
+
+#fish-btn {
+  background-color: green;
+  color: white;
+  padding: 2px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+#Enter-fishAmt {
+  background-color: green;
+  color: white;
+  padding: 2px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+#result-img {
+  width: 150px;
+  height: 150px;
+}
+
+p {
+  font-size: 20px;
+}
+
+#CSelect {
+  margin: 40px;
+  width: 130px;
+  height: 150px;
+  border: 5px dashed black;
+}
+
+#CSelect1 {
+  margin: 40px;
+  width: 130px;
+  height: 190px;
+  border: 5px dashed black;
+}
+
+div{
+  border: black solid 5px;
+}
+
+
